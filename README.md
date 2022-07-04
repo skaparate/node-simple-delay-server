@@ -14,5 +14,5 @@ APP_PORT=3000 DELAY=6000 npm start
 ```
 Environment variables:
 
-APP_PORT: The port where the app will listen
-DELAY:    The delay, in milis, that will be applied to each request.
+* APP_PORT: The port where the app will listen
+* DELAY:    The delay, in milis, that will be applied to each request.
